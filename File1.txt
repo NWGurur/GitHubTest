@@ -2,3 +2,6 @@ Thisis the 1st file
 
 
 I wanna make sure the changes are properly replicated
+
+
+We need to clone it by pull method
