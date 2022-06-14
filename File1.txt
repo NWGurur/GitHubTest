@@ -5,3 +5,6 @@ I wanna make sure the changes are properly replicated
 
 
 We need to clone it by pull method
+
+
+Themore changes  make the easier it gets
